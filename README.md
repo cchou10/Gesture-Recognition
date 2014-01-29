@@ -3,7 +3,8 @@ ECE5470
 
 Final project from ECE5470: Computer Vision. Vision system to read a small subset of American Sign Language.
 
-Worked with Caleb Woo\\
+Worked with Caleb Woo
+
 Abstract:
 This project approaches the classication aspect of gesture recognition. It recognizes numbers 1
 through 10 in American Sign Language (ASL). The general algorithm rst thresholds the greyscale
