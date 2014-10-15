@@ -1,7 +1,7 @@
-ECE5470
+Gesture Recognition for ASL Numbers
 =======
 
-Final project from ECE5470: Computer Vision. Vision system to read a small subset of American Sign Language.
+Computer Vision. Vision system to read a small subset of American Sign Language.
 
 Worked with Caleb Woo
 
